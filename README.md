@@ -8,11 +8,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Taiki-ops&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyAndEarth55&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     width="54%"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=Taiki-ops&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=SkyAndEarth55&theme=neon&hide_border=true&card_width=420"
     width="45%"
     alt="languages graph" />
 </div>
@@ -229,14 +229,14 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/Taiki-ops?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Taiki-ops&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@Taiki-ops's github-readme-stats-one-bice"/>
+  <a href="https://github.com/SkyAndEarth55?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SkyAndEarth55&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="@SkyAndEarth55's github-readme-stats-one-bice"/>
   </a>
-  <a href="https://github.com/Taiki-ops?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taiki-ops&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@Taiki-ops's github-readme-streak-stats"/>
+  <a href="https://github.com/SkyAndEarth55?tab=stars">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkyAndEarth55&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@SkyAndEarth55's github-readme-streak-stats"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Taiki-ops&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=SkyAndEarth55&&style=flat-square" align="center" />
 </div>
